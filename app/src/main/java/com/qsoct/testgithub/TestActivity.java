@@ -5,4 +5,6 @@ package com.qsoct.testgithub;
  */
 
 public class TestActivity {
+    public TestActivity() {
+    }
 }
